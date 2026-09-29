@@ -4,7 +4,7 @@ An interactive 3D product experience built with React, Three.js, React Three Fib
 
 ## 🔗 Live Demo
 
-[View Live Website](https://apple-3d-lsd580zmz-snehlata-s-projects.vercel.app/)
+[View Live Website](https://apple-3d-web-mu.vercel.app/)
 
 ## ✨ Features
 
