@@ -2,6 +2,10 @@
 
 An interactive 3D product experience built with React, Three.js, React Three Fiber, GSAP, and Tailwind CSS.
 
+## 🔗 Live Demo
+
+[View Live Website](https://apple-3d-lsd580zmz-snehlata-s-projects.vercel.app/)
+
 ## ✨ Features
 
 - Interactive 3D product model
